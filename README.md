@@ -1,5 +1,7 @@
 # Set Up a GitHub Account
 
+A video demonstration of setting the configuration files in Git after you set up a GitHub account is available at: https://youtu.be/Ilbiqu79JI0
+
 ## GitHub
 
 * If you don't already have a GitHub account, you'll need to set one up.
